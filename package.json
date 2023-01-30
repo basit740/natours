@@ -1,0 +1,17 @@
+{
+	"name": "natours",
+	"version": "1.0.0",
+	"description": "Landing page for natours project.",
+	"main": "index.js",
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"author": "Basit Ali",
+	"license": "MIT",
+	"devDependencies": {
+		"node-sass": "^8.0.0"
+	},
+	"dependencies": {
+		"jquery": "^3.6.3"
+	}
+}
