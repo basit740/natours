@@ -4,4 +4,4 @@
 
 * Project Live Url
 
-https://natours-flame.vercel.app/
+https://basit-natours.netlify.app/
